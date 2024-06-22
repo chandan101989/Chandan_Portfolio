@@ -12,4 +12,4 @@ Welcome to my portfolio website! Here you can find information about me, my proj
 You can view the portfolio by opening the `index.html` file in your web browser.
 
 ## Contact
-Feel free to reach out to me at [venkatyogesh003@gmail.com].
+Feel free to reach out to me at [chandanchan64@gmail.com].
